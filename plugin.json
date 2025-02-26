@@ -1,7 +1,7 @@
 {
-  "name": "ExamplePlugin",
-  "author": "Anuke",
-  "main": "example.ExamplePlugin",
-  "description": "A plugin to demonstrate some basic features.",
+  "name": "Fish API",
+  "author": "BalaM314",
+  "main": "fish.api.FishApiPlugin",
+  "description": "Contains an HTTP API, and exposes certain functions to JS.",
   "version": 1.0
 }
